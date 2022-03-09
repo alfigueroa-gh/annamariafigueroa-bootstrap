@@ -1,4 +1,10 @@
-# ICJ Bootstrap Template
+# Annamaria's Bootstrap project
+
+It is a class project
+
+I started this on Monday March 7, 2022
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
